@@ -1,0 +1,7 @@
+C:\Users\vinicius.correia\source\repos\TesteInjecao\TesteInjecao\bin\Debug\TesteInjecao.exe.config
+C:\Users\vinicius.correia\source\repos\TesteInjecao\TesteInjecao\bin\Debug\TesteInjecao.exe
+C:\Users\vinicius.correia\source\repos\TesteInjecao\TesteInjecao\bin\Debug\TesteInjecao.pdb
+C:\Users\vinicius.correia\source\repos\TesteInjecao\TesteInjecao\obj\Debug\TesteInjecao.csproj.CoreCompileInputs.cache
+C:\Users\vinicius.correia\source\repos\TesteInjecao\TesteInjecao\obj\Debug\TesteInjecao.exe
+C:\Users\vinicius.correia\source\repos\TesteInjecao\TesteInjecao\obj\Debug\TesteInjecao.pdb
+C:\Users\vinicius.correia\source\repos\TesteInjecao\TesteInjecao\obj\Debug\TesteInjecao.csproj.AssemblyReference.cache
