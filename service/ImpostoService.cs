@@ -7,17 +7,15 @@ using System.Threading.Tasks;
 namespace TesteInjecao.service
 {
     public class ImpostoService
-
     {
-        double valorTotal;
+        private readonly double _valorTotal;
         public   ImpostoService(IImpostEstado impostoEstado, ETiposDeImpostos tipoImposto, double valor)
         {
-            this.valorTotal = impostoEstado.CalcularImposto(tipoImposto, valor);
+            _valorTotal = impostoEstado.CalcularImposto(tipoImposto, valor);
         }
         public double ValorTotal()
         {
-            return this.valorTotal;
+            return _valorTotal; 
         }
-
     }
 }
